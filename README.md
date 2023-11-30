@@ -1,3 +1,6 @@
+![image](https://github.com/Xxproner/Arduino_blue/assets/150460572/ad86f6d5-ee8d-4752-bd5f-be4fd41f4340)
+![image](https://github.com/Xxproner/Arduino_blue/assets/150460572/a7f55eb9-e0ed-4546-a50e-1773c4ac6045)
+
 Bluetooth модуль ZS-040:
 Подключение:
 Bluetooth модуль ZS-040 имеет 6 контактов, но используются только центральные 4:
