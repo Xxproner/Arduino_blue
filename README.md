@@ -3,7 +3,7 @@
 ![image](https://github.com/Xxproner/Arduino_blue/assets/150460572/ad86f6d5-ee8d-4752-bd5f-be4fd41f4340)
 ![image](https://github.com/Xxproner/Arduino_blue/assets/150460572/a7f55eb9-e0ed-4546-a50e-1773c4ac6045)
 
-Интерактивный доступ :https://www.tinkercad.com/things/7GaAbT3i3W4-incredible-gogo/editel?sharecode=V7HAxzt4vVVAB3xExoV4O7uFqjHraDPQBS-YNc2VKUM
+Интерактивный доступ - https://www.tinkercad.com/things/7GaAbT3i3W4-incredible-gogo/editel?sharecode=V7HAxzt4vVVAB3xExoV4O7uFqjHraDPQBS-YNc2VKUM
 
 **Bluetooth модуль ZS-040**
 =====================
